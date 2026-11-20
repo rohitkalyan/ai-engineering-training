@@ -8,3 +8,4 @@ Daily PDF lessons on production AI systems, with interview practice and hands-on
 | 2 | 2026-11-16 | [Hybrid search and reranking](training/day-2/day-2.pdf) |
 | 3 | 2026-11-18 | [Reliable tool calling](training/day-3/day-3.pdf) |
 | 4 | 2026-11-19 | [Evaluating grounded answers](training/day-4/day-4.pdf) |
+| 5 | 2026-11-20 | [LoRA fine-tuning](training/day-5/day-5.pdf) |
