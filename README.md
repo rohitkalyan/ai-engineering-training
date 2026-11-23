@@ -9,3 +9,4 @@ Daily PDF lessons on production AI systems, with interview practice and hands-on
 | 3 | 2026-11-18 | [Reliable tool calling](training/day-3/day-3.pdf) |
 | 4 | 2026-11-19 | [Evaluating grounded answers](training/day-4/day-4.pdf) |
 | 5 | 2026-11-20 | [LoRA fine-tuning](training/day-5/day-5.pdf) |
+| 6 | 2026-11-22 | [Tenant isolation in RAG](training/day-6/day-6.pdf) |
