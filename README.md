@@ -10,3 +10,4 @@ Daily PDF lessons on production AI systems, with interview practice and hands-on
 | 4 | 2026-11-19 | [Evaluating grounded answers](training/day-4/day-4.pdf) |
 | 5 | 2026-11-20 | [LoRA fine-tuning](training/day-5/day-5.pdf) |
 | 6 | 2026-11-22 | [Tenant isolation in RAG](training/day-6/day-6.pdf) |
+| 7 | 2026-11-23 | [Review - Build a support assistant](training/day-7/day-7.pdf) |
